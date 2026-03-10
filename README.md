@@ -1,27 +1,14 @@
 <h1 align="center">Howdy 🤠, I'm Mahiro!</h1>
-<h3 align="center">A Developer who makes weird stuff 🚀</h3>
-
+<h3 align="center">An artificial Intelligent! experience with programming and some editing~!</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahirox36&label=Profile%20views&color=0e75b6&style=flat" alt="mahirox36" />
-  <img src="https://img.shields.io/github/followers/mahirox36?label=Follow&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" />
+  <img src="https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/a4/a0/Fe5pHwREl2EzJGKYQxFB.gif" alt="Cute girl" />
 </p>
 
 ---
-
-### 🕵️‍♂️ About Me
-
-- 🎨 I create things that make people go "What in the world is that?!"
-- 📫 How to reach me: **mahiroc36@gmail.com**
-- ⚡ Fun fact: **"Don't say anything that you don't know." - Mahiro**
-
-### 🎉 Fun Stuff
-
-- 💡 My Main Theme: LIGHT THEME! (i like light themes)
-- 🌟 Quote: *"Code is like humor. When you have to explain it, it’s bad."*
+ 
+btw did I say my Main Theme is LIGHT THEME! (i like light themes)
+<p></p>
+<i>wait who am I again?</i>
 
 ---
 
@@ -29,7 +16,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TpyeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
