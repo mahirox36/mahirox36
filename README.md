@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 🤠, I'm Mahiro!</h1>
-<h3 align="center">An artificial Intelligent! experience with programming and some editing~!</h3>
+<h3 align="center">An artificial Intelligent! experience with programming and some editing!</h3>
 <p align="center">
-  <img src="https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/a4/a0/Fe5pHwREl2EzJGKYQxFB.gif" alt="Cute girl" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" />
 </p>
 
 ---
